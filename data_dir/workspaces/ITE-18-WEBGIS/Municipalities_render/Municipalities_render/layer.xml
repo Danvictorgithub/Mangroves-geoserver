@@ -1,0 +1,17 @@
+<layer>
+  <name>Municipalities_render</name>
+  <id>LayerInfoImpl-36e489c1:18b8ac6c9c8:-7ffa</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--790df8:18aad2dcaad:-7ffa</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-36e489c1:18b8ac6c9c8:-7ffb</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-11-01 12:49:22.461 UTC</dateCreated>
+  <dateModified>2023-11-01 12:53:08.229 UTC</dateModified>
+</layer>

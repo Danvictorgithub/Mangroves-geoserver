@@ -1,0 +1,46 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-36e489c1:18b8ac6c9c8:-7ffb</id>
+  <name>Municipalities_render</name>
+  <nativeName>ph_muni</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--790df8:18aad2dcaad:-7fff</id>
+  </namespace>
+  <title>Municipalities_render</title>
+  <keywords>
+    <string>features</string>
+    <string>ph_muni</string>
+  </keywords>
+  <srs>EPSG:404000</srs>
+  <nativeBoundingBox>
+    <minx>114.27788543701172</minx>
+    <maxx>126.60497283935547</maxx>
+    <miny>4.587294101715088</miny>
+    <maxy>21.12188720703125</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>114.27788543701172</minx>
+    <maxx>126.60497283935547</maxx>
+    <miny>4.587294101715088</miny>
+    <maxy>21.12188720703125</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-36e489c1:18b8ac6c9c8:-7ffc</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

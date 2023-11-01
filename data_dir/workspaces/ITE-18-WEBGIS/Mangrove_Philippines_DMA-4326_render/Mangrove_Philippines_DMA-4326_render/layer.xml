@@ -1,0 +1,17 @@
+<layer>
+  <name>Mangrove_Philippines_DMA-4326_render</name>
+  <id>LayerInfoImpl-36e489c1:18b8ac6c9c8:-7ffe</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-36e489c1:18b8ac6c9c8:-7fff</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-11-01 12:08:37.665 UTC</dateCreated>
+  <dateModified>2023-11-01 12:14:14.143 UTC</dateModified>
+</layer>
