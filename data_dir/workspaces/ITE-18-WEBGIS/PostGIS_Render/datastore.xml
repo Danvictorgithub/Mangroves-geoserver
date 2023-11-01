@@ -1,0 +1,43 @@
+<dataStore>
+  <id>DataStoreInfoImpl--6dc5a7a1:18b8a10a7b7:-8000</id>
+  <name>PostGIS_Render</name>
+  <description>PostGIS_Render</description>
+  <type>PostGIS</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--790df8:18aad2dcaad:-8000</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="schema">public</entry>
+    <entry key="Evictor run periodicity">300</entry>
+    <entry key="Max open prepared statements">50</entry>
+    <entry key="encode functions">true</entry>
+    <entry key="Batch insert size">1</entry>
+    <entry key="preparedStatements">false</entry>
+    <entry key="database">ite18webgis</entry>
+    <entry key="host">dpg-cl0dh2c8s0fs73de29r0-a.singapore-postgres.render.com</entry>
+    <entry key="Loose bbox">true</entry>
+    <entry key="SSL mode">REQUIRE</entry>
+    <entry key="Estimated extends">true</entry>
+    <entry key="fetch size">1000</entry>
+    <entry key="Expose primary keys">false</entry>
+    <entry key="validate connections">true</entry>
+    <entry key="Support on the fly geometry simplification">true</entry>
+    <entry key="Connection timeout">20</entry>
+    <entry key="create database">false</entry>
+    <entry key="Method used to simplify geometries">FAST</entry>
+    <entry key="port">5432</entry>
+    <entry key="passwd">crypt1:p2+2hiQNUIw0gR44MsDZUM7WxU0ecl9ZOAf8YVp5aMwJ4iFEwJLNowswO57FF9pw</entry>
+    <entry key="min connections">1</entry>
+    <entry key="dbtype">postgis</entry>
+    <entry key="namespace">ITE-18-WEBGIS</entry>
+    <entry key="max connections">10</entry>
+    <entry key="Evictor tests per run">3</entry>
+    <entry key="Test while idle">true</entry>
+    <entry key="user">ite18webgis_user</entry>
+    <entry key="Max connection idle time">300</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2023-11-01 08:47:09.238 UTC</dateCreated>
+  <disableOnConnFailure>false</disableOnConnFailure>
+</dataStore>
