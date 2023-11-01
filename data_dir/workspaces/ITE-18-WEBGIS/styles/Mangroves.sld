@@ -26,6 +26,15 @@
                 <ogc:PropertyName>PROVINCE</ogc:PropertyName>
               </Label>
           	</TextSymbolizer>
+          <PointSymbolizer>
+              <Graphic>
+                <ExternalGraphic xmlns="http://www.opengis.net/sld" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <OnlineResource xlink:type="simple" xlink:href="mangrove.png" />
+                  <Format>image/png</Format>
+                </ExternalGraphic>
+              <Size>32</Size>
+            </Graphic>
+          </PointSymbolizer>
         </Rule>
 
       </FeatureTypeStyle>
