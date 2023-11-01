@@ -41,10 +41,8 @@
     <styleParameterFilter>
       <key>STYLES</key>
       <defaultValue></defaultValue>
-      <availableStyles class="sorted-set">
-        <string>ITE-18-WEBGIS:WEBGIS-Design</string>
-      </availableStyles>
-      <defaultStyle>ITE-18-WEBGIS:WEBGIS-Design</defaultStyle>
+      <availableStyles class="sorted-set"/>
+      <defaultStyle>ITE-18-WEBGIS:Mangroves</defaultStyle>
     </styleParameterFilter>
   </parameterFilters>
   <gutter>0</gutter>

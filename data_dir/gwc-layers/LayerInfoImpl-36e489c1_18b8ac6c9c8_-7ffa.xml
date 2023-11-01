@@ -4,15 +4,31 @@
   <inMemoryCached>true</inMemoryCached>
   <name>ITE-18-WEBGIS:Municipalities_render</name>
   <mimeFormats>
-    <string>image/png</string>
     <string>image/jpeg</string>
+    <string>image/png</string>
   </mimeFormats>
   <gridSubsets>
     <gridSubset>
-      <gridSetName>EPSG:4326</gridSetName>
+      <gridSetName>EPSG:900913</gridSetName>
+      <extent>
+        <coords>
+          <double>1.2721356015780197E7</double>
+          <double>511201.68186002364</double>
+          <double>1.4093601108373282E7</double>
+          <double>2406418.283432674</double>
+        </coords>
+      </extent>
     </gridSubset>
     <gridSubset>
-      <gridSetName>EPSG:900913</gridSetName>
+      <gridSetName>EPSG:4326</gridSetName>
+      <extent>
+        <coords>
+          <double>114.27788543701172</double>
+          <double>4.587294101715088</double>
+          <double>126.60497283935547</double>
+          <double>21.12188720703125</double>
+        </coords>
+      </extent>
     </gridSubset>
   </gridSubsets>
   <metaWidthHeight>

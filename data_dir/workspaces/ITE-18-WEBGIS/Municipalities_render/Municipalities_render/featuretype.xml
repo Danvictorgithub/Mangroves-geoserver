@@ -10,7 +10,7 @@
     <string>features</string>
     <string>ph_muni</string>
   </keywords>
-  <srs>EPSG:404000</srs>
+  <srs>EPSG:4326</srs>
   <nativeBoundingBox>
     <minx>114.27788543701172</minx>
     <maxx>126.60497283935547</maxx>
@@ -40,6 +40,64 @@
   <numDecimals>0</numDecimals>
   <padWithZeros>false</padWithZeros>
   <forcedDecimal>false</forcedDecimal>
+  <attributes>
+    <attribute>
+      <name>the_geom</name>
+      <minOccurs>0</minOccurs>
+      <maxOccurs>1</maxOccurs>
+      <nillable>true</nillable>
+      <binding>org.locationtech.jts.geom.MultiPolygon</binding>
+      <source>geom</source>
+    </attribute>
+    <attribute>
+      <name>PHCode_Reg</name>
+      <minOccurs>0</minOccurs>
+      <maxOccurs>1</maxOccurs>
+      <nillable>true</nillable>
+      <binding>java.lang.String</binding>
+      <source>phcode_reg</source>
+    </attribute>
+    <attribute>
+      <name>Reg_Name</name>
+      <minOccurs>0</minOccurs>
+      <maxOccurs>1</maxOccurs>
+      <nillable>true</nillable>
+      <binding>java.lang.String</binding>
+      <source>reg_name</source>
+    </attribute>
+    <attribute>
+      <name>PHCode_Pro</name>
+      <minOccurs>0</minOccurs>
+      <maxOccurs>1</maxOccurs>
+      <nillable>true</nillable>
+      <binding>java.lang.String</binding>
+      <source>phcode_pro</source>
+    </attribute>
+    <attribute>
+      <name>Pro_Name</name>
+      <minOccurs>0</minOccurs>
+      <maxOccurs>1</maxOccurs>
+      <nillable>true</nillable>
+      <binding>java.lang.String</binding>
+      <source>pro_name</source>
+    </attribute>
+    <attribute>
+      <name>PHCode_Mun</name>
+      <minOccurs>0</minOccurs>
+      <maxOccurs>1</maxOccurs>
+      <nillable>true</nillable>
+      <binding>java.lang.String</binding>
+      <source>phcode_mun</source>
+    </attribute>
+    <attribute>
+      <name>Mun_Name</name>
+      <minOccurs>0</minOccurs>
+      <maxOccurs>1</maxOccurs>
+      <nillable>true</nillable>
+      <binding>java.lang.String</binding>
+      <source>mun_name</source>
+    </attribute>
+  </attributes>
   <overridingServiceSRS>false</overridingServiceSRS>
   <skipNumberMatched>false</skipNumberMatched>
   <circularArcPresent>false</circularArcPresent>

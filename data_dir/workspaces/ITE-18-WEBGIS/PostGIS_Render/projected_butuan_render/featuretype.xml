@@ -10,7 +10,7 @@
     <string>features</string>
     <string>projected_butuan</string>
   </keywords>
-  <srs>EPSG:404000</srs>
+  <srs>EPSG:4326</srs>
   <nativeBoundingBox>
     <minx>125.45626831054688</minx>
     <maxx>125.70231628417969</maxx>
