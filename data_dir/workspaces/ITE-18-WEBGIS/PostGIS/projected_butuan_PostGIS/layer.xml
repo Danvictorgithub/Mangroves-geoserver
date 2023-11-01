@@ -1,0 +1,17 @@
+<layer>
+  <name>projected_butuan_PostGIS</name>
+  <id>LayerInfoImpl--31ade1b1:18af4e6b99b:-7ffc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--31ade1b1:18af4e6b99b:-7ffd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-10-03 09:41:28.837 UTC</dateCreated>
+  <dateModified>2023-10-03 09:44:20.645 UTC</dateModified>
+</layer>

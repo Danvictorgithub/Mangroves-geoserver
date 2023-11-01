@@ -1,0 +1,43 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--31ade1b1:18af4e6b99b:-7ffd</id>
+  <name>projected_butuan_PostGIS</name>
+  <nativeName>projected_butuan</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--790df8:18aad2dcaad:-7fff</id>
+  </namespace>
+  <title>projected_butuan_PostGIS</title>
+  <keywords>
+    <string>features</string>
+    <string>projected_butuan</string>
+  </keywords>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>125.45626831054688</minx>
+    <maxx>125.70231628417969</maxx>
+    <miny>8.744821548461914</miny>
+    <maxy>9.04956340789795</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>125.45626831054688</minx>
+    <maxx>125.70231628417969</maxx>
+    <miny>8.744821548461914</miny>
+    <maxy>9.04956340789795</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--31ade1b1:18af4e6b99b:-7ffe</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>
